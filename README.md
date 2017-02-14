@@ -11,3 +11,5 @@ Usage:
 
     Proxy can be configured using the standard "https_proxy" ENV variable (thanks Go!).
 ```
+
+The process is logged to syslog on the local machine with an app name of "gcs-upload".
